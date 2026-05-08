@@ -1,0 +1,4 @@
+// 1.21.1	2026-04-24T15:26:12.0788412	Tags for minecraft:worldgen/biome mod id monolith
+952869b53ffba5e64090a752f4aad1f1dead90e5 data/monolith/tags/worldgen/biome/has_structure/ice_statues_biomes.json
+6fc3b639c819ef8920ffa55d524daa08cf9d34f0 data/monolith/tags/worldgen/biome/has_structure/sand_statues_biomes.json
+cadf6d60051cac2ff22d6476efe72d4a0ec8969c data/monolith/tags/worldgen/biome/has_structure/stone_statues_biomes.json

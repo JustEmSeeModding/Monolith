@@ -1,0 +1,7 @@
+{
+  "processors": [
+    {
+      "processor_type": "monolith:stone_to_copper_statue"
+    }
+  ]
+}

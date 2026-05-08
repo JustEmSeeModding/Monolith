@@ -1,0 +1,30 @@
+{
+  "structures": [
+    {
+      "structure": "monolith:villager_stone_statue",
+      "weight": 3
+    },
+    {
+      "structure": "monolith:warrior_stone_statue",
+      "weight": 6
+    },
+    {
+      "structure": "monolith:sword_in_stone_statue",
+      "weight": 3
+    },
+    {
+      "structure": "monolith:tribal_stone_statue",
+      "weight": 1
+    },
+    {
+      "structure": "monolith:deer_stone_statue",
+      "weight": 4
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 417106,
+    "spacing": 12,
+    "separation": 6
+  }
+}

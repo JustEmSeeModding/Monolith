@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "monolith:golem_stone_statue",
+      "weight": 1
+    },
+    {
+      "structure": "monolith:knight_stone_statue",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 4106745,
+    "spacing": 12,
+    "separation": 6
+  }
+}
